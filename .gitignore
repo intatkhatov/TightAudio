@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.pytest_cache/
+
+# Virtual env
+venv/
+.venv/
+
+# Audio data / outputs
+Input/
+Output/
+Dataset/
+
+# OS
+.DS_Store
